@@ -20,3 +20,7 @@
 ### C. [N-gram language models](https://medium.com/@abhishekjainindore24/n-grams-in-nlp-a7c05c1aff12 "N-gram language models")
 ### D. [Smoothing techniques: Additive smoothing](https://medium.com/@ompramod9921/exploring-n-grams-the-building-blocks-of-natural-language-understanding-b9b90dffe0a2 "Smoothing techniques: Additive smoothing")
 ### E. [Perplexity](https://github.com/13Aluminium/NLP/blob/main/nlp-language-models.md "Perplexity") and [evaluating language models](https://www.linkedin.com/pulse/evaluating-large-language-models-llms-standard-set-metrics-biswas-ecjlc "evaluating language models")
+
+
+## Week 3: Advanced Smoothing for Language Modeling, POS Tagging
+### A. ~~Advanced smoothing techniques: Katz Back-off, Kneser-Ney Smoothing~~
