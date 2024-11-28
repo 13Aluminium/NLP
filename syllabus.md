@@ -36,31 +36,32 @@
 
 
 ## Week 5: Syntax – Constituency Parsing
-•	Syntax in NLP: Importance and applications
-•	Phrase structure grammar: Context-free grammars (CFG)
-•	Parse trees: Constituency-based parse trees
-•	CKY algorithm for parsing
-•	Probabilistic CFG (PCFG): Probabilities in parsing
-•	Parsing algorithms: Earley Parser, CYK Algorithm
-•	Evaluating parsers: Precision, Recall, F1-score for parse trees
+	•	Syntax in NLP: Importance and applications
+	•	Phrase structure grammar: Context-free grammars (CFG)
+	•	Parse trees: Constituency-based parse trees
+	•	CKY algorithm for parsing
+	•	Probabilistic CFG (PCFG): Probabilities in parsing
+	•	Parsing algorithms: Earley Parser, CYK Algorithm
+	•	Evaluating parsers: Precision, Recall, F1-score for parse trees
 
 
 ## Week 6: Dependency Parsing
-* 	Dependency grammar and its significance in NLP
-* 	Dependency trees and their structure
-* 	Transition-based vs. graph-based dependency parsing
-* 	Algorithms for dependency parsing: Eisner’s, Chu-Liu/Edmonds
-* 	Projective and non-projective parsing
-* 	Applications of dependency parsing in NLP (semantic role labeling, information extraction)	
+	* 	Dependency grammar and its significance in NLP
+	* 	Dependency trees and their structure
+	* 	Transition-based vs. graph-based dependency parsing
+	* 	Algorithms for dependency parsing: Eisner’s, Chu-Liu/Edmonds
+	* 	Projective and non-projective parsing
+	* 	Applications of dependency parsing in NLP (semantic role labeling, information extraction)	
 
 
 ## Week 7: Distributional Semantics	
-* Distributional hypothesis: “You shall know a word by the company it keeps”	
-* Vector space models for word representation
-* Word embeddings: Word2Vec, GloVe
-* Contextualized word representations: BERT, ELMo, GPT
-* Measuring word similarity and word analogies
-* Applications of distributional semantics: Word clustering, synonym detection
+
+	* Distributional hypothesis: “You shall know a word by the company it keeps”	
+	* Vector space models for word representation
+	* Word embeddings: Word2Vec, GloVe
+	* Contextualized word representations: BERT, ELMo, GPT
+	* Measuring word similarity and word analogies
+	* Applications of distributional semantics: Word clustering, synonym detection
 
 ## Week 8: Lexical Semantics
 
